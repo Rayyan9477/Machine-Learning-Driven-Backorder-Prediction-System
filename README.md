@@ -1,4 +1,4 @@
-# Title: Advanced Machine Learning-Driven Backorder Prediction System
+# Title: Machine Learning-Driven Backorder Prediction System
 
 Experience a state-of-the-art Django web application designed to predict product backorders with exceptional accuracy. This platform leverages advanced machine learning techniques, incorporating pre-trained Random Forest Classifier, Decision Tree, and LGBM models. By analyzing critical features such as product availability and lead time, it ensures precise and reliable backorder predictions, showcasing cutting-edge expertise in data science and machine learning.
 
