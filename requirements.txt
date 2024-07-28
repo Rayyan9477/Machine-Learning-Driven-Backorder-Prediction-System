@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+Flask
+joblib
+requests
+matplotlib
+django
+gunicorn
+lightgbm
+scipy
