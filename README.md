@@ -17,7 +17,7 @@ Experience a state-of-the-art Django web application designed to predict product
 To clone this project, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/Pradyothsp/backorder-prediction.git
+git clone https://github.com/Rayyan9477/Machine-Learning-Driven-Backorder-Prediction-System
 ```
 
 ### Creating Virtual Environment
